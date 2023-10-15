@@ -1,8 +1,14 @@
-# React + Vite
+# Previsão do tempo agora
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse é um projeto realizado em react, onde sua funcionalidade é mostrar o tempo de qualquer lugar que pesquisar em tempo real.
 
-Currently, two official plugins are available:
+Neste projeto, foi utilizado a API do OpenWeather, situado no site https://openweathermap.org/api, para fazer requisições das cidades, elas podem ser feitas tanto em português quanto em inglês. Também foi utilizado um hook de estado, "useState" para mudar o estado da aplicação no momento em que sua função fosse chamada ao clicar na lupa.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Técnologias utilizadas:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+
+## Visão no desktop
+![image](https://github.com/FilipeGabrielRocha/previsao-tempo/assets/94459039/60e6ec89-e6f4-4a28-a5dd-4c7503ed8cea)
